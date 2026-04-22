@@ -27,3 +27,4 @@ Using the slicing concept rotate the list
 ![OUTPUT](<re2.png>)
 
 ## Result:
+Thus,the program to circulate the n variables has beeen successfully executed
