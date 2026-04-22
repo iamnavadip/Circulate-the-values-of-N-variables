@@ -24,6 +24,6 @@ Using the slicing concept rotate the list
         print("After circulating the values are:",list1)
         return
 ## Output:
-![OUTPUT](<Screenshot 2024-10-26 182538-1.png>)
+![OUTPUT](<re2.png>)
 
 ## Result:
